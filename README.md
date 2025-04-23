@@ -1,7 +1,7 @@
 ### Olá eu sou o Guilherme Assunção👋
 
 ------
-Sou um estudante de Ciência da Computação, com habilidades em programação em várias linguagens, incluindo Java, Python e C. Sempre busco por novos desafios e oportunidades para aplicar minhas habilidades e aprender mais sobre a indústria de tecnologia. No meu tempo livre, gosto de me manter atualizado com as últimas tendências e tecnologias e participar de projetos open-source. Estou ansioso para contribuir para a comunidade de desenvolvimento de software através do meu GitHub.
+Sou formado em Ciência da Computação, com habilidades em programação em várias linguagens, incluindo Java, Python e C. Sempre busco por novos desafios e oportunidades para aplicar minhas habilidades e aprender mais sobre a indústria de tecnologia. No meu tempo livre, gosto de me manter atualizado com as últimas tendências e tecnologias e participar de projetos open-source. Estou ansioso para contribuir para a comunidade de desenvolvimento de software através do meu GitHub.
 
 -------
 
